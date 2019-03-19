@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.exe
+   logfile = E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.InstallLog
+Installing service Service9...
+Service Service9 has been successfully installed.
+Creating EventLog source Service9 in log Application...
+Committing assembly 'E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.exe
+   logfile = E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.InstallLog

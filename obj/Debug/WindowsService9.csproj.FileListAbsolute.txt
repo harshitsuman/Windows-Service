@@ -1,0 +1,8 @@
+E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.exe.config
+E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.exe
+E:\windows_services\WindowsService9\WindowsService9\bin\Debug\WindowsService9.pdb
+E:\windows_services\WindowsService9\WindowsService9\obj\Debug\WindowsService9.ProjectInstaller.resources
+E:\windows_services\WindowsService9\WindowsService9\obj\Debug\WindowsService9.csproj.GenerateResource.cache
+E:\windows_services\WindowsService9\WindowsService9\obj\Debug\WindowsService9.csproj.CoreCompileInputs.cache
+E:\windows_services\WindowsService9\WindowsService9\obj\Debug\WindowsService9.exe
+E:\windows_services\WindowsService9\WindowsService9\obj\Debug\WindowsService9.pdb
